@@ -8,7 +8,7 @@ My work focuses on translating mathematical theory into efficient, scalable soft
 
 ## Flagship Projects
 
-### [Domain Mapping Monte Carlo (Skeleton Repo)]()
+### [Domain Mapping Monte Carlo (Skeleton Repo)](https://github.com/maddiepr/domain-mapping-monte-carlo-public)
 > Python • Fortran • HPC • Simulation Framework Architecture  
 
 A redacted version of my thesis project exploring Monte Carlo methods for solving PDEs in conformally mapped domains. This skeleton highlights the project’s structure, modular code design, and simulation pipeline across multiple geometries. Core numerical routines have been removed for IP protection, but the architecture, workflow, and methodology are documented in detail. Includes reflections, boundary handling logic, and conformal mapping strategies.
@@ -22,7 +22,7 @@ A fully runnable Monte Carlo framework for solving 1D PDEs with linear reaction 
 
 ---
 
-### [Surrogate Modeling of Nonlinear PDEs]()
+### [Surrogate Modeling of Nonlinear PDEs](https://github.com/maddiepr/pde-surrogate-modeling)
 > Python • C++ • PyTorch • Simulation + ML
 
 Solves nonlinear PDEs (e.g., Burgers' Equation) using finite difference methods, then generates training data to fit a neural network surrogate model. Explores numerical stability, approximate accuracy, and model generalization for predictive use cases. Includes visualizations and runtime comparisons.
@@ -52,21 +52,21 @@ Containerized pipeline for running PDE simulations in isolated environments. Opt
 
 ## Learning & Exploratory Projects
 
-### [Java Grid Simulation]()
+### [Java Grid Simulation](https://github.com/maddiepr/java-grid-simulation)
 > Java • OOP • Algorithms
 
 A grid-based simulation (e.g., diffusion or particle movement) showcasing object-oriented programming, modular logic, and basic UI/output handling in Java.
 
 ---
 
-### [Simulation Datase Demo]()
+### [Simulation Datase Demo](https://github.com/maddiepr/simulation-database-demo)
 > Python • SQL • PostgreSQL
 
 Store and query simulation output data using relational databases. Includes table design, data insertion, and exploratory queries using SQL and pandas.
 
 ---
 
-### [C++ Playground]()
+### [C++ Playground](https://github.com/maddiepr/cpp-playground)
 > C++ • Language Practice
 
 A sandbox for learning and implementing C++ basics - data structures, file I/O, numerics, and performance comparisons.
